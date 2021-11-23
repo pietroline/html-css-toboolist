@@ -23,3 +23,35 @@ header span{
     line-height: 100px;
     vertical-align: middle;
 }
+
+/* main's comments */
+
+/* start button*/
+main > .button{
+    width: 80%;
+    margin: auto;
+    background-color: #fff;
+    margin-top: 50px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+main > div > button{
+    padding: 6px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+main > .button > #add_task{
+    background-color: #47adf1;
+    color: #fff;
+    border: 0px;
+    margin-left: 50px;
+}
+
+main > .button > #add_section{
+    background-color: #fff;
+    color: #c5cbd0;
+    border: 1px solid #c5cbd0;
+}
+
+/* botton end */
