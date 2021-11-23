@@ -1,0 +1,25 @@
+/* general */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+/* header's comments */
+header > div{
+    background-color: #fff;
+}
+
+header #logo{
+    line-height: 50px;
+    vertical-align: middle;
+}
+
+header span{
+    font-size: 50px;
+    background-color: #fff;
+    line-height: 100px;
+    vertical-align: middle;
+}
