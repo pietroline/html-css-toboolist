@@ -5,6 +5,11 @@
     box-sizing: border-box;
     background-color: lightgray;
     font-weight: bold;
+
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+
 }
 
 /* header's comments */
