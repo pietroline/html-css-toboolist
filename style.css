@@ -53,5 +53,87 @@ main > .button > #add_section{
     color: #c5cbd0;
     border: 1px solid #c5cbd0;
 }
-
 /* botton end */
+
+/* start list */
+main > .list{
+    width: 80%;
+    height: 1000px;
+    margin: auto;
+    background-color: #fff;
+    margin-top: 2px;
+    padding-left: 50px;
+    border-radius: 0px 0px 5px 5px;
+}
+
+main > .list > ul > li{
+    list-style: none;
+    background-color: #fff;
+}
+
+main > .list > .title{
+    background-color: #fff; 
+    display: inline-block;
+    margin-top: 30px;     
+}
+
+/* Simbolo */
+main > .list > .task .check{
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+main > .list > .task .check_positive{
+    color: #65c0a9;
+    border: 1px solid #65c0a9;
+}
+
+main > .list > .task .check_negative{
+    color: #eb5952;
+    border: 1px solid #eb5952;
+}
+/*Fine simbolo  */
+
+/* Attributo */
+main > .list .text, .attributo{
+    font-weight: 100;
+    background-color: #fff;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+main > .list >.task .attributo{
+    padding: 6px;
+    border-radius: 10px;
+    font-size: 10px;
+    color: #fff;
+}
+
+main > .list > .task .editional{
+    background-color: #47adf1;
+}
+
+main > .list > .task .q1_goals{
+    background-color: #9c72e4;
+}
+
+main > .list > .task .recruting{
+    background-color: #64c0a9;
+}
+
+
+main > .list > .task .mobile{
+    background-color: #f29e33;
+}
+
+main > .list > .task .website{
+    background-color: #d863a1;
+}
+
+main > .list > .task .sales{
+    background-color: #b0c926;
+}
+/* Fine attributo */
+
+/* list end */
