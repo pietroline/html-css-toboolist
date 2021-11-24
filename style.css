@@ -88,6 +88,7 @@ main > .list > .task .check{
     background-color: #fff;
     border-radius: 50%;
     padding: 2px;
+    margin-right: 5px;
 }
 
 main > .list > .task .check_positive{
