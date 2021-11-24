@@ -10,7 +10,7 @@
 
 }
 
-/* header's comments */
+/* start header's comments */
 header > div{
     background-color: #fff;
 }
@@ -27,8 +27,9 @@ header span{
     line-height: 100px;
     vertical-align: middle;
 }
+/* header's comments end */
 
-/* main's comments */
+/* start main's comments */
 
 /* start button*/
 main > .button{
@@ -141,3 +142,5 @@ main > .list > .task .sales{
 /* Fine attributo */
 
 /* list end */
+
+/* main's comments end */
